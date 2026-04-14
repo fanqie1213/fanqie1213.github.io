@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="study group icon">
+  <defs>
+    <linearGradient id="study-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#7c3aed"/>
+      <stop offset="100%" stop-color="#a855f7"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="24" fill="url(#study-bg)"/>
+  <path d="M24 44 L64 26 L104 44 L64 62 Z" fill="#f5f3ff"/>
+  <path d="M36 54 V78 C36 84 50 90 64 90 C78 90 92 84 92 78 V54 L64 70 Z" fill="#ddd6fe"/>
+  <rect x="60" y="64" width="8" height="34" rx="4" fill="#ede9fe"/>
+  <circle cx="64" cy="98" r="8" fill="#f5f3ff"/>
+</svg>

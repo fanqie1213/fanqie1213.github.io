@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-labelledby="title desc">
+  <title id="title">数据结构笔记占位图</title>
+  <desc id="desc">展示 YAML 与页面文件关系的本地素材</desc>
+  <rect width="1280" height="720" fill="#fff7ed" />
+  <rect x="120" y="112" width="1040" height="496" rx="32" fill="#ffffff" stroke="#fdba74" stroke-width="6" />
+  <text x="180" y="196" fill="#9a3412" font-size="40" font-family="Segoe UI, Arial, sans-serif" font-weight="700">DATA MAP</text>
+  <text x="180" y="276" fill="#7c2d12" font-size="30" font-family="Consolas, monospace">source/_data/link.yml</text>
+  <text x="180" y="332" fill="#7c2d12" font-size="30" font-family="Consolas, monospace">source/_data/shuoshuo.yml</text>
+  <text x="180" y="388" fill="#7c2d12" font-size="30" font-family="Consolas, monospace">source/gallery/index.md</text>
+  <text x="180" y="444" fill="#7c2d12" font-size="30" font-family="Consolas, monospace">source/img/gallery/*</text>
+</svg>
